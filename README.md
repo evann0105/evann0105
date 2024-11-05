@@ -1,5 +1,5 @@
 <picture>
- <img alt="May the force be with you" src="[![banner-resized.webp](https://i.postimg.cc/RVNdy3gd/banner-resized.webp)](https://postimg.cc/RNxwn05J)">
+ <img alt="https://postimg.cc/RNxwn05J">
 </picture>
 
 <!--
