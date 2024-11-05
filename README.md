@@ -1,5 +1,5 @@
 <picture>
- <img alt="https://postimg.cc/RNxwn05J">
+ <img alt="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlkaGR4M3ZxZnVtMjlrbDR0N3Y3bXBvdmx2eGhhazRjbjhpb2J2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif">
 </picture>
 
 <!--
