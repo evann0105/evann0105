@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello ! i'm glad to see you here 😆, i'm Megret Evann 🙂</h1>
 
-<div align="center" style="font-size: 3em; font-weight: bold; margin: 0;">a student from 42 lausanne who fell into coding after cooking studies</div>
+### 🎓 A student from 42 Lausanne who fell into coding after cooking studies 🎉
 
 - 🌱 I’m currently learning c and c++
 - 💬 Ask me about my project or anything like that
