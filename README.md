@@ -1,11 +1,8 @@
 <picture>
- <img alt="May the force be with you" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdjZHRvMmtxZnI1cm96b24zdjJxcGtzNDhuZ3dwbzVrZWxkODFqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
+ <img alt="May the force be with you" src="[![banner-resized.webp](https://i.postimg.cc/RVNdy3gd/banner-resized.webp)](https://postimg.cc/RNxwn05J)">
 </picture>
 
-
 <!--
-**evann0105/evann0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
