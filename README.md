@@ -1,5 +1,5 @@
 <picture>
- <img alt="May the force be with you" src="https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif?cid=790b76118z822zj73h0ji6mhmpk335q99vjypbabrb3dlkc7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+ <img alt="May the force be with you" src="https://github.com/evann0105/42-Lausanne-Piscine/blob/main/giphy-ezgif.com-webp-to-gif-converter.gif?raw=true">
 </picture>
 
 <!--
