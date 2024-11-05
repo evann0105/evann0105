@@ -1,5 +1,5 @@
 <picture>
- <img alt="May the force be with you" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlkaGR4M3ZxZnVtMjlrbDR0N3Y3bXBvdmx2eGhhazRjbjhpb2J2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kH6CqYiquZawmU1HI6/giphy.gif">
+ <img alt="May the force be with you" src="https://media.giphy.com/media/ohONS2y8GTDoI/giphy.gif?cid=790b76118z822zj73h0ji6mhmpk335q99vjypbabrb3dlkc7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </picture>
 
 <!--
