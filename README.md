@@ -4,7 +4,9 @@
 
 <h1 align="center">Hello ! i'm glad to see you here 😆, i'm Megret Evann 🙂</h1>
 
-   ### 🎓 A student from 42 Lausanne who fell into coding after cooking studies 🎉
+<div align="center">
+  <h3>🎓 A student from 42 Lausanne who fell into coding after cooking studies 👨🏻‍🍳</h3>
+</div>
 
 - 🌱 I’m currently learning c and c++
 - 💬 Ask me about my project or anything like that
