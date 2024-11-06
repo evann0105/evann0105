@@ -8,7 +8,7 @@
   <h3>🎓 A student from 42 Lausanne who fell into coding after cooking studies 👨🏻‍🍳</h3>
 </div>
 
-<div style="display: grid; grid-template-columns: 1fr auto; align-items: start; justify-items: center; gap: 20px; max-width: 600px; margin: 0 auto;">
+<div style="display: grid; grid-template-columns: auto 100px; align-items: start; gap: 20px; max-width: 600px; margin: 0 auto;">
   <ul style="list-style-type: none; padding-left: 0; margin: 0;">
     <li>🌱 I’m currently learning C and C++</li>
     <li>💬 Ask me about my project or anything like that</li>
@@ -19,6 +19,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2kzdmRubGlyejNsdTdiZWpqYnplYjU2bHh0NjRsbG9nMnlleHkzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Your Image" width="100" />
   </div>
 </div>
+
 
 
 
