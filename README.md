@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Evann 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=800&lines=Computer+Science+Student+from+France;Ex-Chef+turned+Coder;Currently+learning+C+and+C%2B%2B+at+42+Lausanne" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Computer+Science+Student+from+France;Ex-Chef+turned+Coder;Learning+C+and+C%2B%2B+at+42+Lausanne" alt="Typing SVG" />
 </p>
 
 ---
