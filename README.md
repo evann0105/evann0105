@@ -1,37 +1,37 @@
-<picture>
-  <img alt="May the force be with you" src="https://s4.ezgif.com/tmp/ezgif-4-61e1f79117.gif">
-</picture>
+<h1 align="center">Hey there! I'm Evann 👋</h1>
 
-<h1 style="text-align: center;">Hello! I'm glad to see you here 😆, I'm Megret Evann 🙂</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&lines=Computer+Science+Student+from+France;Ex-Chef+turned+Coder;Currently+learning+C+and+C%2B%2B+at+42+Lausanne" alt="Typing SVG" />
+</p>
 
-<div style="text-align: center;">
-  <h3>🎓 A student from 42 Lausanne who fell into coding after cooking studies 👨🏻‍🍳</h3>
-</div>
+---
 
-<!-- Container principal en Flexbox -->
-<div style="display: flex; align-items: flex-start; justify-content: center; gap: 20px; max-width: 600px; margin: 0 auto;">
-  
-  <!-- Liste des informations -->
-  <div style="flex: 1;">
-    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-      <li>🌱 I’m currently learning C and C++</li>
-      <li>📫 How to reach me: emegret@student.42lausanne.ch</li>
-      <li>⚡ Fun fact: I studied cooking before discovering coding</li>
-    </ul>
-  </div>
-  
-  <!-- GIF à côté du texte -->
-  <div style="display: flex; align-items: center;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2kzdmRubGlyejNsdTdiZWpqYnplYjU2bHh0NjRsbG9nMnlleHkzdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Your Image" width="100" />
-  </div>
-</div>
+### 👨‍🍳 From the kitchen to the command line
+I’m **Evann Megret**, a computer science student at [42 Lausanne](https://42lausanne.ch), who discovered a love for coding after studying cooking 👨‍🍳.
 
+- 🔭 Currently diving into **C** and **C++**
+- 📬 Reach me: emegret@student.42lausanne.ch
+- 🎯 Fun fact: I traded knives for keyboards!
 
+---
 
+### 💻 Tech Stack
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
 
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=evann0105&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=evann0105&theme=radical" />
+</p>
 
+---
 
-
-
-
+### 🌐 Let's connect!
+<p align="center">
+  <a href="https://github.com/evann0105"><img src="https://img.shields.io/github/followers/evann0105?label=Follow&style=social"></a>
+</p>
