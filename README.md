@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Après une décennie à maîtriser la précision et la rigueur en tant que Chef 👨‍🍳, j'ai réorienté cette passion vers la résolution de problèmes complexes dans le monde du code.
+  Après une décennie à maîtriser la précision et la rigueur en tant que cuisto 👨‍🍳(bof quand meme j'ai juste le diplome), j'ai réorienté cette passion vers la résolution de problèmes complexes dans le monde du code.
   <br />
   Aujourd'hui étudiant à <strong><a href="https://42lausanne.ch" style="color: #00B8FF;">42 Lausanne</a></strong>, je construis mon avenir, une ligne de code à la fois.
   <br />
