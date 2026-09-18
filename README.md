@@ -5,8 +5,6 @@
 <p align="center"><strong>Un design soigné. Une base technique solide. Un site utile à votre activité.</strong></p>
 <p align="center">
   <a href="mailto:emegret@student.42lausanne.ch"><strong>Parlons de votre projet ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/evann0105?tab=repositories">Explorer mes projets</a>
 </p>
 
 ---
@@ -33,18 +31,6 @@ Mon objectif : traduire votre savoir-faire en une présence en ligne claire, pro
 </td>
 </tr>
 </table>
-
-### Du concret, dans le code
-
-**[La Caverne des Monts ↗](https://github.com/evann0105/la-cavernedesmonts)**  
-Projet de boutique en ligne développé avec **Python et Django** : catalogue administrable, panier en session et intégration Stripe Checkout. Le traitement des commandes s’appuie sur des webhooks signés et des vérifications côté serveur.
-
-<code>Django</code> · <code>Python</code> · <code>Stripe</code> · <code>Authentification</code> · <code>Tests</code>
-
-**[Fondations en C — parcours 42 ↗](https://github.com/evann0105/42-lausanne-piscine)**  
-Des exercices et projets qui développent la rigueur : manipulation de la mémoire, algorithmique et résolution de problèmes. Une approche technique nourrie par mon parcours à **42 Lausanne**.
-
-<code>C</code> · <code>Shell</code> · <code>Unix</code> · <code>Git</code>
 
 ### Mes compétences au service de votre projet
 
