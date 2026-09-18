@@ -4,7 +4,7 @@
 
 <p align="center"><strong>Un design soigné. Une base technique solide. Un site utile à votre activité.</strong></p>
 <p align="center">
-  <a href="mailto:emegret@student.42lausanne.ch"><strong>Parlons de votre projet ↗</strong></a>
+  <a href="mailto:evann.megret@gmail.com"><strong>Parlons de votre projet ↗</strong></a>
 </p>
 
 ---
@@ -54,6 +54,6 @@ Mon objectif : traduire votre savoir-faire en une présence en ligne claire, pro
 <p align="center">
   <strong>Votre prochain site commence par une conversation.</strong><br />
   Vous avez un projet de création ou de refonte à Genève ou dans la région franco-suisse ?<br /><br />
-  <a href="mailto:emegret@student.42lausanne.ch"><strong>emegret@student.42lausanne.ch ↗</strong></a><br /><br />
+  <a href="mailto:evann.megret@gmail.com"><strong>evann.megret@gmail.com ↗</strong></a><br /><br />
   <sub>Evann Megret · Développeur web freelance · Genève &amp; alentours · France / Suisse</sub>
 </p>
